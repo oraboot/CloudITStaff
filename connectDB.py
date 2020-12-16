@@ -4,7 +4,7 @@ try:
                                   password="IYDgrr43836",
                                   #host="10.101.1.34",
                                   host="node7547-itstaff-008.app.ruk-com.cloud",
-                                  port="5432",
+                                  port="11072",
                                   database="CloudDB")
 
     cursor = connection.cursor()
